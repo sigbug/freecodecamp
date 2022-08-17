@@ -1,2 +1,2 @@
-# freecodecamp.org
+# freecodecamp
 This is for learning purpose
